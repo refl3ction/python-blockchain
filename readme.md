@@ -1,4 +1,5 @@
 # Python Blockchain
+This is an application I developed following [this course on udemy.](https://www.udemy.com/course/learn-python-by-building-a-blockchain-cryptocurrency/)
 
 ## Getting Started
 
@@ -7,7 +8,7 @@ Prerequisites
 
 Installing
 ```sh
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 Running
